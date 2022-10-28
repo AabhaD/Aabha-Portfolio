@@ -20,7 +20,7 @@ customers, which scammers could target.
 ![model performance table](https://user-images.githubusercontent.com/77465643/198723124-c127c971-5819-40ab-9a39-4321f7f3ab73.png)
 
 
-## [Project 3 : SMS-Spam-Detection-using-Spacy](https://github.com/AabhaD/Spam-Detection)
+## [Project 3 : SMS Spam Detection using Spacy](https://github.com/AabhaD/Spam-Detection)
 * Analyzed spam data and developed three pipelines using TF-IDF vectors, manual features, and combined TF-IDF vectors. The evaluation metric used was
 F0.5 giving slightly more importance to precision than recall for this imbalanced dataset.
 * Achieved a maximum F0.5 score of **0.9458** using an **XGBoost Classifier** which turned out to be the best model.
