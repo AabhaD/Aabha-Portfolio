@@ -23,7 +23,7 @@ F0.5 giving slightly more importance to precision than recall for this imbalance
 
 
 ## [Project 4 : Chicago Crime visualization](https://github.com/AabhaD/ShinyApp-visualization-for-Chicago-crime)
-* The 2020 Chicago crime data was visualised through interactive dashboard in R Shinny App.
+* The 2020 Chicago crime data was visualised through interactive dashboard in R-Shiny App.
 
 ![Tab4-Create a tab with any other information (e g , a predictive model of](https://user-images.githubusercontent.com/77465643/198723038-45aa7d6a-b923-4988-974f-27b503c93727.png)
 
