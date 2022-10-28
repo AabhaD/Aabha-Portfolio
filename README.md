@@ -1,11 +1,11 @@
-Data Science Projects
-
 ## [Project 1: Sentiment and Time Series Analysis](https://github.com/AabhaD/Sentiment-and-Time-Series-Analysis)
 
 * Analyzed the Pfizer BioNTech vaccine tweets to assess public opinions and acceptance.
 * Recommended that showing the scientific data, information about the approvals and efficacy of the vaccine, and addressing concerns like safety, severe side effects, and allergies in ads and campaigns would **reduce public hesitancy** toward the vaccine.
 
-![Positive Sentiment Tweet wordcloud](https://github.com/AabhaD/Aabha-Portfolio/blob/main/Images/positive%20sentiment%20tweets.png)
+
+![positive wordcloud](https://user-images.githubusercontent.com/77465643/198739850-648f5518-5c27-403f-8f05-41825b8ea7e0.png)
+
 
 ## [Project 2 : Fraud Detection](https://github.com/AabhaD/Fraud-Detection)
 
