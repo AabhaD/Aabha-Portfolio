@@ -1,4 +1,4 @@
-# Aabha Desai Data Science Project Portfolio
+# Data Science Project Portfolio by Aabha Desai
 
 ## [Project 1: Sentiment and Time Series Analysis](https://github.com/AabhaD/Sentiment-and-Time-Series-Analysis)
 
